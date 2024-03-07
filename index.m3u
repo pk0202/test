@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="General",1+1 (1080p)
-https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+#EXTINF:-1 tvg-id="Enter10" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="General",Enter10
+http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeNews" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="General",ZeeNews
+https://watchtvs.live/indian-channels/player.php?id=Zeenews
