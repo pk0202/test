@@ -1,19 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Enter10" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="General",Enter10
 http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeNews" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="General",ZeeNews
-https://watchtvs.live/indian-channels/player.php?id=Zeenews
-#EXTINF:-1 tvg-id="ABZY Dhakad" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="General",ABZY Dhakad
-https://livetv-channels.b-cdn.net/8030/chunklist0.m3u8
-#EXTINF:-1 tvg-id="Zee TVHD" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="General",Zee TVHD
-https://watchtvs.live/play.html?id=167&amp;ch=Zee_TV_HD.png
-#EXTINF:-1 tvg-id="Sony SD" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="General",Sony SD
-https://tv.googledrivelinks.com/play.php?c=Sony_SD
-#EXTINF:-1 tvg-id="DD Retro" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="General",DD Retro
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/index.m3u8
-#EXTINF:-1 tvg-id="DD National" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="General",DD National
-https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/934700/assetType/media/assetFileId/15074548/contextType/PLAYBACK/isAltUrl/False/a.m3u8
-#EXTINF:-1 tvg-id="Apka Colors" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="General",Apka Colors
-http://208.86.19.13:81/204.stream/index.m3u8
 #EXTINF:-1 tvg-id="Dangal TV" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="General",Dangal TV
 http://longstream-03.ajaah.com/PlayBoxTV/Dangal/playlist.m3u8
